@@ -1,0 +1,4214 @@
+[
+  {
+    "date": "06-12-2021",
+    "awayTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Getafe",
+      "gamesDrawn": 5,
+      "position": 19,
+      "goalsScored": 10,
+      "gamesWon": 2,
+      "points": 11
+    }
+  },
+  {
+    "date": "05-12-2021",
+    "awayTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Espanyol",
+      "gamesDrawn": 5,
+      "position": 11,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 20
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 16,
+      "name": "Rayo Vallecano",
+      "gamesDrawn": 3,
+      "position": 6,
+      "goalsScored": 24,
+      "gamesWon": 8,
+      "points": 27
+    }
+  },
+  {
+    "date": "05-12-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 30,
+      "name": "Cadiz",
+      "gamesDrawn": 6,
+      "position": 18,
+      "goalsScored": 14,
+      "gamesWon": 2,
+      "points": 12
+    },
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 7,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Elche",
+      "gamesDrawn": 6,
+      "position": 16,
+      "goalsScored": 15,
+      "gamesWon": 3,
+      "points": 15
+    }
+  },
+  {
+    "date": "05-12-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Osasuna",
+      "gamesDrawn": 6,
+      "position": 10,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 21
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 28,
+      "name": "Levante",
+      "gamesDrawn": 8,
+      "position": 20,
+      "goalsScored": 13,
+      "gamesWon": 0,
+      "points": 8
+    }
+  },
+  {
+    "date": "05-12-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Valencia",
+      "gamesDrawn": 7,
+      "position": 8,
+      "goalsScored": 24,
+      "gamesWon": 5,
+      "points": 22
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 21,
+      "name": "Celta Vigo",
+      "gamesDrawn": 4,
+      "position": 14,
+      "goalsScored": 17,
+      "gamesWon": 4,
+      "points": 16
+    }
+  },
+  {
+    "date": "04-12-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Villarreal",
+      "gamesDrawn": 7,
+      "position": 13,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 16
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 11,
+      "name": "Sevilla",
+      "gamesDrawn": 4,
+      "position": 2,
+      "goalsScored": 25,
+      "gamesWon": 9,
+      "points": 31
+    }
+  },
+  {
+    "date": "04-12-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 18,
+      "name": "Real Betis",
+      "gamesDrawn": 3,
+      "position": 3,
+      "goalsScored": 26,
+      "gamesWon": 9,
+      "points": 30
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Barcelona",
+      "gamesDrawn": 5,
+      "position": 7,
+      "goalsScored": 23,
+      "gamesWon": 6,
+      "points": 23
+    }
+  },
+  {
+    "date": "04-12-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 23,
+      "name": "Real Mallorca",
+      "gamesDrawn": 7,
+      "position": 12,
+      "goalsScored": 16,
+      "gamesWon": 4,
+      "points": 19
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 16,
+      "name": "Atletico Madrid",
+      "gamesDrawn": 5,
+      "position": 4,
+      "goalsScored": 27,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "04-12-2021",
+    "awayTeam": {
+      "gamesLost": 1,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Real Madrid",
+      "gamesDrawn": 3,
+      "position": 1,
+      "goalsScored": 37,
+      "gamesWon": 12,
+      "points": 39
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 13,
+      "name": "Real Sociedad",
+      "gamesDrawn": 5,
+      "position": 5,
+      "goalsScored": 19,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "04-12-2021",
+    "awayTeam": {
+      "gamesLost": 1,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Real Madrid",
+      "gamesDrawn": 3,
+      "position": 1,
+      "goalsScored": 37,
+      "gamesWon": 12,
+      "points": 39
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 13,
+      "name": "Real Sociedad",
+      "gamesDrawn": 5,
+      "position": 5,
+      "goalsScored": 19,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "01-12-2021",
+    "awayTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 1,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Real Madrid",
+      "gamesDrawn": 3,
+      "position": 1,
+      "goalsScored": 37,
+      "gamesWon": 12,
+      "points": 39
+    }
+  },
+  {
+    "date": "29-11-2021",
+    "awayTeam": {
+      "gamesLost": 7,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Elche",
+      "gamesDrawn": 6,
+      "position": 16,
+      "goalsScored": 15,
+      "gamesWon": 3,
+      "points": 15
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Osasuna",
+      "gamesDrawn": 6,
+      "position": 10,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 21
+    }
+  },
+  {
+    "date": "28-11-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 28,
+      "name": "Levante",
+      "gamesDrawn": 8,
+      "position": 20,
+      "goalsScored": 13,
+      "gamesWon": 0,
+      "points": 8
+    },
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 18,
+      "name": "Real Betis",
+      "gamesDrawn": 3,
+      "position": 3,
+      "goalsScored": 26,
+      "gamesWon": 9,
+      "points": 30
+    }
+  },
+  {
+    "date": "28-11-2021",
+    "awayTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 13,
+      "name": "Real Sociedad",
+      "gamesDrawn": 5,
+      "position": 5,
+      "goalsScored": 19,
+      "gamesWon": 8,
+      "points": 29
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Espanyol",
+      "gamesDrawn": 5,
+      "position": 11,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 20
+    }
+  },
+  {
+    "date": "28-11-2021",
+    "awayTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 16,
+      "name": "Atletico Madrid",
+      "gamesDrawn": 5,
+      "position": 4,
+      "goalsScored": 27,
+      "gamesWon": 8,
+      "points": 29
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 4,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 30,
+      "name": "Cadiz",
+      "gamesDrawn": 6,
+      "position": 18,
+      "goalsScored": 14,
+      "gamesWon": 2,
+      "points": 12
+    }
+  },
+  {
+    "date": "28-11-2021",
+    "awayTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 11,
+      "name": "Sevilla",
+      "gamesDrawn": 4,
+      "position": 2,
+      "goalsScored": 25,
+      "gamesWon": 9,
+      "points": 31
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 1,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Real Madrid",
+      "gamesDrawn": 3,
+      "position": 1,
+      "goalsScored": 37,
+      "gamesWon": 12,
+      "points": 39
+    }
+  },
+  {
+    "date": "27-11-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 21,
+      "name": "Celta Vigo",
+      "gamesDrawn": 4,
+      "position": 14,
+      "goalsScored": 17,
+      "gamesWon": 4,
+      "points": 16
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 15,
+      "goalsConceded": 21,
+      "name": "Alaves",
+      "gamesDrawn": 2,
+      "position": 17,
+      "goalsScored": 12,
+      "gamesWon": 4,
+      "points": 14
+    }
+  },
+  {
+    "date": "27-11-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 16,
+      "name": "Rayo Vallecano",
+      "gamesDrawn": 3,
+      "position": 6,
+      "goalsScored": 24,
+      "gamesWon": 8,
+      "points": 27
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Valencia",
+      "gamesDrawn": 7,
+      "position": 8,
+      "goalsScored": 24,
+      "gamesWon": 5,
+      "points": 22
+    }
+  },
+  {
+    "date": "27-11-2021",
+    "awayTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Getafe",
+      "gamesDrawn": 5,
+      "position": 19,
+      "goalsScored": 10,
+      "gamesWon": 2,
+      "points": 11
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 23,
+      "name": "Real Mallorca",
+      "gamesDrawn": 7,
+      "position": 12,
+      "goalsScored": 16,
+      "gamesWon": 4,
+      "points": 19
+    }
+  },
+  {
+    "date": "27-11-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Barcelona",
+      "gamesDrawn": 5,
+      "position": 7,
+      "goalsScored": 23,
+      "gamesWon": 6,
+      "points": 23
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 3,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Villarreal",
+      "gamesDrawn": 7,
+      "position": 13,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 16
+    }
+  },
+  {
+    "date": "26-11-2021",
+    "awayTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 15,
+      "goalsConceded": 23,
+      "name": "Granada",
+      "gamesDrawn": 6,
+      "position": 15,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 15
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    }
+  },
+  {
+    "date": "26-11-2021",
+    "awayTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 15,
+      "goalsConceded": 23,
+      "name": "Granada",
+      "gamesDrawn": 6,
+      "position": 15,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 15
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    }
+  },
+  {
+    "date": "21-11-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 30,
+      "name": "Cadiz",
+      "gamesDrawn": 6,
+      "position": 18,
+      "goalsScored": 14,
+      "gamesWon": 2,
+      "points": 12
+    },
+    "homeTeamScore": 4,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Getafe",
+      "gamesDrawn": 5,
+      "position": 19,
+      "goalsScored": 10,
+      "gamesWon": 2,
+      "points": 11
+    }
+  },
+  {
+    "date": "21-11-2021",
+    "awayTeam": {
+      "gamesLost": 1,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Real Madrid",
+      "gamesDrawn": 3,
+      "position": 1,
+      "goalsScored": 37,
+      "gamesWon": 12,
+      "points": 39
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 4,
+    "homeTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 15,
+      "goalsConceded": 23,
+      "name": "Granada",
+      "gamesDrawn": 6,
+      "position": 15,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 15
+    }
+  },
+  {
+    "date": "21-11-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 18,
+      "name": "Real Betis",
+      "gamesDrawn": 3,
+      "position": 3,
+      "goalsScored": 26,
+      "gamesWon": 9,
+      "points": 30
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 3,
+    "homeTeam": {
+      "gamesLost": 7,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Elche",
+      "gamesDrawn": 6,
+      "position": 16,
+      "goalsScored": 15,
+      "gamesWon": 3,
+      "points": 15
+    }
+  },
+  {
+    "date": "21-11-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Valencia",
+      "gamesDrawn": 7,
+      "position": 8,
+      "goalsScored": 24,
+      "gamesWon": 5,
+      "points": 22
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 13,
+      "name": "Real Sociedad",
+      "gamesDrawn": 5,
+      "position": 5,
+      "goalsScored": 19,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "20-11-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Villarreal",
+      "gamesDrawn": 7,
+      "position": 13,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 16
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 21,
+      "name": "Celta Vigo",
+      "gamesDrawn": 4,
+      "position": 14,
+      "goalsScored": 17,
+      "gamesWon": 4,
+      "points": 16
+    }
+  },
+  {
+    "date": "20-11-2021",
+    "awayTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 15,
+      "goalsConceded": 21,
+      "name": "Alaves",
+      "gamesDrawn": 2,
+      "position": 17,
+      "goalsScored": 12,
+      "gamesWon": 4,
+      "points": 14
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 11,
+      "name": "Sevilla",
+      "gamesDrawn": 4,
+      "position": 2,
+      "goalsScored": 25,
+      "gamesWon": 9,
+      "points": 31
+    }
+  },
+  {
+    "date": "20-11-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Osasuna",
+      "gamesDrawn": 6,
+      "position": 10,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 21
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 16,
+      "name": "Atletico Madrid",
+      "gamesDrawn": 5,
+      "position": 4,
+      "goalsScored": 27,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "20-11-2021",
+    "awayTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Espanyol",
+      "gamesDrawn": 5,
+      "position": 11,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 20
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Barcelona",
+      "gamesDrawn": 5,
+      "position": 7,
+      "goalsScored": 23,
+      "gamesWon": 6,
+      "points": 23
+    }
+  },
+  {
+    "date": "19-11-2021",
+    "awayTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 28,
+      "name": "Levante",
+      "gamesDrawn": 8,
+      "position": 20,
+      "goalsScored": 13,
+      "gamesWon": 0,
+      "points": 8
+    }
+  },
+  {
+    "date": "07-11-2021",
+    "awayTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Getafe",
+      "gamesDrawn": 5,
+      "position": 19,
+      "goalsScored": 10,
+      "gamesWon": 2,
+      "points": 11
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Villarreal",
+      "gamesDrawn": 7,
+      "position": 13,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 16
+    }
+  },
+  {
+    "date": "07-11-2021",
+    "awayTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 16,
+      "name": "Atletico Madrid",
+      "gamesDrawn": 5,
+      "position": 4,
+      "goalsScored": 27,
+      "gamesWon": 8,
+      "points": 29
+    },
+    "homeTeamScore": 3,
+    "awayTeamScore": 3,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Valencia",
+      "gamesDrawn": 7,
+      "position": 8,
+      "goalsScored": 24,
+      "gamesWon": 5,
+      "points": 22
+    }
+  },
+  {
+    "date": "07-11-2021",
+    "awayTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 13,
+      "name": "Real Sociedad",
+      "gamesDrawn": 5,
+      "position": 5,
+      "goalsScored": 19,
+      "gamesWon": 8,
+      "points": 29
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Osasuna",
+      "gamesDrawn": 6,
+      "position": 10,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 21
+    }
+  },
+  {
+    "date": "07-11-2021",
+    "awayTeam": {
+      "gamesLost": 7,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Elche",
+      "gamesDrawn": 6,
+      "position": 16,
+      "goalsScored": 15,
+      "gamesWon": 3,
+      "points": 15
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 23,
+      "name": "Real Mallorca",
+      "gamesDrawn": 7,
+      "position": 12,
+      "goalsScored": 16,
+      "gamesWon": 4,
+      "points": 19
+    }
+  },
+  {
+    "date": "07-11-2021",
+    "awayTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 11,
+      "name": "Sevilla",
+      "gamesDrawn": 4,
+      "position": 2,
+      "goalsScored": 25,
+      "gamesWon": 9,
+      "points": 31
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 18,
+      "name": "Real Betis",
+      "gamesDrawn": 3,
+      "position": 3,
+      "goalsScored": 26,
+      "gamesWon": 9,
+      "points": 30
+    }
+  },
+  {
+    "date": "06-11-2021",
+    "awayTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 15,
+      "goalsConceded": 23,
+      "name": "Granada",
+      "gamesDrawn": 6,
+      "position": 15,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 15
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Espanyol",
+      "gamesDrawn": 5,
+      "position": 11,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 20
+    }
+  },
+  {
+    "date": "06-11-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Barcelona",
+      "gamesDrawn": 5,
+      "position": 7,
+      "goalsScored": 23,
+      "gamesWon": 6,
+      "points": 23
+    },
+    "homeTeamScore": 3,
+    "awayTeamScore": 3,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 21,
+      "name": "Celta Vigo",
+      "gamesDrawn": 4,
+      "position": 14,
+      "goalsScored": 17,
+      "gamesWon": 4,
+      "points": 16
+    }
+  },
+  {
+    "date": "06-11-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 28,
+      "name": "Levante",
+      "gamesDrawn": 8,
+      "position": 20,
+      "goalsScored": 13,
+      "gamesWon": 0,
+      "points": 8
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 15,
+      "goalsConceded": 21,
+      "name": "Alaves",
+      "gamesDrawn": 2,
+      "position": 17,
+      "goalsScored": 12,
+      "gamesWon": 4,
+      "points": 14
+    }
+  },
+  {
+    "date": "06-11-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 16,
+      "name": "Rayo Vallecano",
+      "gamesDrawn": 3,
+      "position": 6,
+      "goalsScored": 24,
+      "gamesWon": 8,
+      "points": 27
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 1,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Real Madrid",
+      "gamesDrawn": 3,
+      "position": 1,
+      "goalsScored": 37,
+      "gamesWon": 12,
+      "points": 39
+    }
+  },
+  {
+    "date": "05-11-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 30,
+      "name": "Cadiz",
+      "gamesDrawn": 6,
+      "position": 18,
+      "goalsScored": 14,
+      "gamesWon": 2,
+      "points": 12
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    }
+  },
+  {
+    "date": "01-11-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 21,
+      "name": "Celta Vigo",
+      "gamesDrawn": 4,
+      "position": 14,
+      "goalsScored": 17,
+      "gamesWon": 4,
+      "points": 16
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 16,
+      "name": "Rayo Vallecano",
+      "gamesDrawn": 3,
+      "position": 6,
+      "goalsScored": 24,
+      "gamesWon": 8,
+      "points": 27
+    }
+  },
+  {
+    "date": "01-11-2021",
+    "awayTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 15,
+      "goalsConceded": 23,
+      "name": "Granada",
+      "gamesDrawn": 6,
+      "position": 15,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 15
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 3,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 28,
+      "name": "Levante",
+      "gamesDrawn": 8,
+      "position": 20,
+      "goalsScored": 13,
+      "gamesWon": 0,
+      "points": 8
+    }
+  },
+  {
+    "date": "31-10-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 23,
+      "name": "Real Mallorca",
+      "gamesDrawn": 7,
+      "position": 12,
+      "goalsScored": 16,
+      "gamesWon": 4,
+      "points": 19
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 30,
+      "name": "Cadiz",
+      "gamesDrawn": 6,
+      "position": 18,
+      "goalsScored": 14,
+      "gamesWon": 2,
+      "points": 12
+    }
+  },
+  {
+    "date": "31-10-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 18,
+      "name": "Real Betis",
+      "gamesDrawn": 3,
+      "position": 3,
+      "goalsScored": 26,
+      "gamesWon": 9,
+      "points": 30
+    },
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 16,
+      "name": "Atletico Madrid",
+      "gamesDrawn": 5,
+      "position": 4,
+      "goalsScored": 27,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "31-10-2021",
+    "awayTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Espanyol",
+      "gamesDrawn": 5,
+      "position": 11,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 20
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Getafe",
+      "gamesDrawn": 5,
+      "position": 19,
+      "goalsScored": 10,
+      "gamesWon": 2,
+      "points": 11
+    }
+  },
+  {
+    "date": "31-10-2021",
+    "awayTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 13,
+      "name": "Real Sociedad",
+      "gamesDrawn": 5,
+      "position": 5,
+      "goalsScored": 19,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "30-10-2021",
+    "awayTeam": {
+      "gamesLost": 1,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Real Madrid",
+      "gamesDrawn": 3,
+      "position": 1,
+      "goalsScored": 37,
+      "gamesWon": 12,
+      "points": 39
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 7,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Elche",
+      "gamesDrawn": 6,
+      "position": 16,
+      "goalsScored": 15,
+      "gamesWon": 3,
+      "points": 15
+    }
+  },
+  {
+    "date": "30-10-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Osasuna",
+      "gamesDrawn": 6,
+      "position": 10,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 21
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 11,
+      "name": "Sevilla",
+      "gamesDrawn": 4,
+      "position": 2,
+      "goalsScored": 25,
+      "gamesWon": 9,
+      "points": 31
+    }
+  },
+  {
+    "date": "30-10-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Villarreal",
+      "gamesDrawn": 7,
+      "position": 13,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 16
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Valencia",
+      "gamesDrawn": 7,
+      "position": 8,
+      "goalsScored": 24,
+      "gamesWon": 5,
+      "points": 22
+    }
+  },
+  {
+    "date": "30-10-2021",
+    "awayTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 15,
+      "goalsConceded": 21,
+      "name": "Alaves",
+      "gamesDrawn": 2,
+      "position": 17,
+      "goalsScored": 12,
+      "gamesWon": 4,
+      "points": 14
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Barcelona",
+      "gamesDrawn": 5,
+      "position": 7,
+      "goalsScored": 23,
+      "gamesWon": 6,
+      "points": 23
+    }
+  },
+  {
+    "date": "28-10-2021",
+    "awayTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 13,
+      "name": "Real Sociedad",
+      "gamesDrawn": 5,
+      "position": 5,
+      "goalsScored": 19,
+      "gamesWon": 8,
+      "points": 29
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 21,
+      "name": "Celta Vigo",
+      "gamesDrawn": 4,
+      "position": 14,
+      "goalsScored": 17,
+      "gamesWon": 4,
+      "points": 16
+    }
+  },
+  {
+    "date": "28-10-2021",
+    "awayTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Getafe",
+      "gamesDrawn": 5,
+      "position": 19,
+      "goalsScored": 10,
+      "gamesWon": 2,
+      "points": 11
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 15,
+      "goalsConceded": 23,
+      "name": "Granada",
+      "gamesDrawn": 6,
+      "position": 15,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 15
+    }
+  },
+  {
+    "date": "28-10-2021",
+    "awayTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 16,
+      "name": "Atletico Madrid",
+      "gamesDrawn": 5,
+      "position": 4,
+      "goalsScored": 27,
+      "gamesWon": 8,
+      "points": 29
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 28,
+      "name": "Levante",
+      "gamesDrawn": 8,
+      "position": 20,
+      "goalsScored": 13,
+      "gamesWon": 0,
+      "points": 8
+    }
+  },
+  {
+    "date": "27-10-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Barcelona",
+      "gamesDrawn": 5,
+      "position": 7,
+      "goalsScored": 23,
+      "gamesWon": 6,
+      "points": 23
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 16,
+      "name": "Rayo Vallecano",
+      "gamesDrawn": 3,
+      "position": 6,
+      "goalsScored": 24,
+      "gamesWon": 8,
+      "points": 27
+    }
+  },
+  {
+    "date": "27-10-2021",
+    "awayTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 11,
+      "name": "Sevilla",
+      "gamesDrawn": 4,
+      "position": 2,
+      "goalsScored": 25,
+      "gamesWon": 9,
+      "points": 31
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 23,
+      "name": "Real Mallorca",
+      "gamesDrawn": 7,
+      "position": 12,
+      "goalsScored": 16,
+      "gamesWon": 4,
+      "points": 19
+    }
+  },
+  {
+    "date": "27-10-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Valencia",
+      "gamesDrawn": 7,
+      "position": 8,
+      "goalsScored": 24,
+      "gamesWon": 5,
+      "points": 22
+    },
+    "homeTeamScore": 4,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 18,
+      "name": "Real Betis",
+      "gamesDrawn": 3,
+      "position": 3,
+      "goalsScored": 26,
+      "gamesWon": 9,
+      "points": 30
+    }
+  },
+  {
+    "date": "27-10-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Osasuna",
+      "gamesDrawn": 6,
+      "position": 10,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 21
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 1,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Real Madrid",
+      "gamesDrawn": 3,
+      "position": 1,
+      "goalsScored": 37,
+      "gamesWon": 12,
+      "points": 39
+    }
+  },
+  {
+    "date": "26-10-2021",
+    "awayTeam": {
+      "gamesLost": 7,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Elche",
+      "gamesDrawn": 6,
+      "position": 16,
+      "goalsScored": 15,
+      "gamesWon": 3,
+      "points": 15
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 15,
+      "goalsConceded": 21,
+      "name": "Alaves",
+      "gamesDrawn": 2,
+      "position": 17,
+      "goalsScored": 12,
+      "gamesWon": 4,
+      "points": 14
+    }
+  },
+  {
+    "date": "26-10-2021",
+    "awayTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Espanyol",
+      "gamesDrawn": 5,
+      "position": 11,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 20
+    }
+  },
+  {
+    "date": "26-10-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 30,
+      "name": "Cadiz",
+      "gamesDrawn": 6,
+      "position": 18,
+      "goalsScored": 14,
+      "gamesWon": 2,
+      "points": 12
+    },
+    "homeTeamScore": 3,
+    "awayTeamScore": 3,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Villarreal",
+      "gamesDrawn": 7,
+      "position": 13,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 16
+    }
+  },
+  {
+    "date": "25-10-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 21,
+      "name": "Celta Vigo",
+      "gamesDrawn": 4,
+      "position": 14,
+      "goalsScored": 17,
+      "gamesWon": 4,
+      "points": 16
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 3,
+    "homeTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Getafe",
+      "gamesDrawn": 5,
+      "position": 19,
+      "goalsScored": 10,
+      "gamesWon": 2,
+      "points": 11
+    }
+  },
+  {
+    "date": "24-10-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 28,
+      "name": "Levante",
+      "gamesDrawn": 8,
+      "position": 20,
+      "goalsScored": 13,
+      "gamesWon": 0,
+      "points": 8
+    },
+    "homeTeamScore": 5,
+    "awayTeamScore": 3,
+    "homeTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 11,
+      "name": "Sevilla",
+      "gamesDrawn": 4,
+      "position": 2,
+      "goalsScored": 25,
+      "gamesWon": 9,
+      "points": 31
+    }
+  },
+  {
+    "date": "24-10-2021",
+    "awayTeam": {
+      "gamesLost": 1,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Real Madrid",
+      "gamesDrawn": 3,
+      "position": 1,
+      "goalsScored": 37,
+      "gamesWon": 12,
+      "points": 39
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Barcelona",
+      "gamesDrawn": 5,
+      "position": 7,
+      "goalsScored": 23,
+      "gamesWon": 6,
+      "points": 23
+    }
+  },
+  {
+    "date": "24-10-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 16,
+      "name": "Rayo Vallecano",
+      "gamesDrawn": 3,
+      "position": 6,
+      "goalsScored": 24,
+      "gamesWon": 8,
+      "points": 27
+    },
+    "homeTeamScore": 3,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 18,
+      "name": "Real Betis",
+      "gamesDrawn": 3,
+      "position": 3,
+      "goalsScored": 26,
+      "gamesWon": 9,
+      "points": 30
+    }
+  },
+  {
+    "date": "24-10-2021",
+    "awayTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 13,
+      "name": "Real Sociedad",
+      "gamesDrawn": 5,
+      "position": 5,
+      "goalsScored": 19,
+      "gamesWon": 8,
+      "points": 29
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 16,
+      "name": "Atletico Madrid",
+      "gamesDrawn": 5,
+      "position": 4,
+      "goalsScored": 27,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "24-10-2021",
+    "awayTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 13,
+      "name": "Real Sociedad",
+      "gamesDrawn": 5,
+      "position": 5,
+      "goalsScored": 19,
+      "gamesWon": 8,
+      "points": 29
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 16,
+      "name": "Atletico Madrid",
+      "gamesDrawn": 5,
+      "position": 4,
+      "goalsScored": 27,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "24-10-2021",
+    "awayTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 15,
+      "goalsConceded": 21,
+      "name": "Alaves",
+      "gamesDrawn": 2,
+      "position": 17,
+      "goalsScored": 12,
+      "gamesWon": 4,
+      "points": 14
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 30,
+      "name": "Cadiz",
+      "gamesDrawn": 6,
+      "position": 18,
+      "goalsScored": 14,
+      "gamesWon": 2,
+      "points": 12
+    }
+  },
+  {
+    "date": "24-10-2021",
+    "awayTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Espanyol",
+      "gamesDrawn": 5,
+      "position": 11,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 20
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 7,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Elche",
+      "gamesDrawn": 6,
+      "position": 16,
+      "goalsScored": 15,
+      "gamesWon": 3,
+      "points": 15
+    }
+  },
+  {
+    "date": "24-10-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Villarreal",
+      "gamesDrawn": 7,
+      "position": 13,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 16
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    }
+  },
+  {
+    "date": "24-10-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Villarreal",
+      "gamesDrawn": 7,
+      "position": 13,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 16
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    }
+  },
+  {
+    "date": "18-10-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 18,
+      "name": "Real Betis",
+      "gamesDrawn": 3,
+      "position": 3,
+      "goalsScored": 26,
+      "gamesWon": 9,
+      "points": 30
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 15,
+      "goalsConceded": 21,
+      "name": "Alaves",
+      "gamesDrawn": 2,
+      "position": 17,
+      "goalsScored": 12,
+      "gamesWon": 4,
+      "points": 14
+    }
+  },
+  {
+    "date": "18-10-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 30,
+      "name": "Cadiz",
+      "gamesDrawn": 6,
+      "position": 18,
+      "goalsScored": 14,
+      "gamesWon": 2,
+      "points": 12
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Espanyol",
+      "gamesDrawn": 5,
+      "position": 11,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 20
+    }
+  },
+  {
+    "date": "17-10-2021",
+    "awayTeam": {
+      "gamesLost": 7,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Elche",
+      "gamesDrawn": 6,
+      "position": 16,
+      "goalsScored": 15,
+      "gamesWon": 3,
+      "points": 15
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 16,
+      "name": "Rayo Vallecano",
+      "gamesDrawn": 3,
+      "position": 6,
+      "goalsScored": 24,
+      "gamesWon": 8,
+      "points": 27
+    }
+  },
+  {
+    "date": "17-10-2021",
+    "awayTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 11,
+      "name": "Sevilla",
+      "gamesDrawn": 4,
+      "position": 2,
+      "goalsScored": 25,
+      "gamesWon": 9,
+      "points": 31
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 21,
+      "name": "Celta Vigo",
+      "gamesDrawn": 4,
+      "position": 14,
+      "goalsScored": 17,
+      "gamesWon": 4,
+      "points": 16
+    }
+  },
+  {
+    "date": "17-10-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Osasuna",
+      "gamesDrawn": 6,
+      "position": 10,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 21
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Villarreal",
+      "gamesDrawn": 7,
+      "position": 13,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 16
+    }
+  },
+  {
+    "date": "17-10-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Valencia",
+      "gamesDrawn": 7,
+      "position": 8,
+      "goalsScored": 24,
+      "gamesWon": 5,
+      "points": 22
+    },
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Barcelona",
+      "gamesDrawn": 5,
+      "position": 7,
+      "goalsScored": 23,
+      "gamesWon": 6,
+      "points": 23
+    }
+  },
+  {
+    "date": "16-10-2021",
+    "awayTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Getafe",
+      "gamesDrawn": 5,
+      "position": 19,
+      "goalsScored": 10,
+      "gamesWon": 2,
+      "points": 11
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 28,
+      "name": "Levante",
+      "gamesDrawn": 8,
+      "position": 20,
+      "goalsScored": 13,
+      "gamesWon": 0,
+      "points": 8
+    }
+  },
+  {
+    "date": "16-10-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 23,
+      "name": "Real Mallorca",
+      "gamesDrawn": 7,
+      "position": 12,
+      "goalsScored": 16,
+      "gamesWon": 4,
+      "points": 19
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 13,
+      "name": "Real Sociedad",
+      "gamesDrawn": 5,
+      "position": 5,
+      "goalsScored": 19,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "16-10-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 23,
+      "name": "Real Mallorca",
+      "gamesDrawn": 7,
+      "position": 12,
+      "goalsScored": 16,
+      "gamesWon": 4,
+      "points": 19
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 13,
+      "name": "Real Sociedad",
+      "gamesDrawn": 5,
+      "position": 5,
+      "goalsScored": 19,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "16-10-2021",
+    "awayTeam": {
+      "gamesLost": 1,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Real Madrid",
+      "gamesDrawn": 3,
+      "position": 1,
+      "goalsScored": 37,
+      "gamesWon": 12,
+      "points": 39
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Espanyol",
+      "gamesDrawn": 5,
+      "position": 11,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 20
+    }
+  },
+  {
+    "date": "16-10-2021",
+    "awayTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 13,
+      "name": "Real Sociedad",
+      "gamesDrawn": 5,
+      "position": 5,
+      "goalsScored": 19,
+      "gamesWon": 8,
+      "points": 29
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Getafe",
+      "gamesDrawn": 5,
+      "position": 19,
+      "goalsScored": 10,
+      "gamesWon": 2,
+      "points": 11
+    }
+  },
+  {
+    "date": "16-10-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 18,
+      "name": "Real Betis",
+      "gamesDrawn": 3,
+      "position": 3,
+      "goalsScored": 26,
+      "gamesWon": 9,
+      "points": 30
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Villarreal",
+      "gamesDrawn": 7,
+      "position": 13,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 16
+    }
+  },
+  {
+    "date": "16-10-2021",
+    "awayTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 11,
+      "name": "Sevilla",
+      "gamesDrawn": 4,
+      "position": 2,
+      "goalsScored": 25,
+      "gamesWon": 9,
+      "points": 31
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 15,
+      "goalsConceded": 23,
+      "name": "Granada",
+      "gamesDrawn": 6,
+      "position": 15,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 15
+    }
+  },
+  {
+    "date": "16-10-2021",
+    "awayTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 11,
+      "name": "Sevilla",
+      "gamesDrawn": 4,
+      "position": 2,
+      "goalsScored": 25,
+      "gamesWon": 9,
+      "points": 31
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 15,
+      "goalsConceded": 23,
+      "name": "Granada",
+      "gamesDrawn": 6,
+      "position": 15,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 15
+    }
+  },
+  {
+    "date": "16-10-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 28,
+      "name": "Levante",
+      "gamesDrawn": 8,
+      "position": 20,
+      "goalsScored": 13,
+      "gamesWon": 0,
+      "points": 8
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 23,
+      "name": "Real Mallorca",
+      "gamesDrawn": 7,
+      "position": 12,
+      "goalsScored": 16,
+      "gamesWon": 4,
+      "points": 19
+    }
+  },
+  {
+    "date": "16-10-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Valencia",
+      "gamesDrawn": 7,
+      "position": 8,
+      "goalsScored": 24,
+      "gamesWon": 5,
+      "points": 22
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 30,
+      "name": "Cadiz",
+      "gamesDrawn": 6,
+      "position": 18,
+      "goalsScored": 14,
+      "gamesWon": 2,
+      "points": 12
+    }
+  },
+  {
+    "date": "16-10-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Barcelona",
+      "gamesDrawn": 5,
+      "position": 7,
+      "goalsScored": 23,
+      "gamesWon": 6,
+      "points": 23
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 16,
+      "name": "Atletico Madrid",
+      "gamesDrawn": 5,
+      "position": 4,
+      "goalsScored": 27,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "01-10-2021",
+    "awayTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 15,
+      "goalsConceded": 21,
+      "name": "Alaves",
+      "gamesDrawn": 2,
+      "position": 17,
+      "goalsScored": 12,
+      "gamesWon": 4,
+      "points": 14
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    }
+  },
+  {
+    "date": "27-09-2021",
+    "awayTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 15,
+      "goalsConceded": 23,
+      "name": "Granada",
+      "gamesDrawn": 6,
+      "position": 15,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 15
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 21,
+      "name": "Celta Vigo",
+      "gamesDrawn": 4,
+      "position": 14,
+      "goalsScored": 17,
+      "gamesWon": 4,
+      "points": 16
+    }
+  },
+  {
+    "date": "26-09-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Osasuna",
+      "gamesDrawn": 6,
+      "position": 10,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 21
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 3,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 23,
+      "name": "Real Mallorca",
+      "gamesDrawn": 7,
+      "position": 12,
+      "goalsScored": 16,
+      "gamesWon": 4,
+      "points": 19
+    }
+  },
+  {
+    "date": "26-09-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 28,
+      "name": "Levante",
+      "gamesDrawn": 8,
+      "position": 20,
+      "goalsScored": 13,
+      "gamesWon": 0,
+      "points": 8
+    },
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Barcelona",
+      "gamesDrawn": 5,
+      "position": 7,
+      "goalsScored": 23,
+      "gamesWon": 6,
+      "points": 23
+    }
+  },
+  {
+    "date": "26-09-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 30,
+      "name": "Cadiz",
+      "gamesDrawn": 6,
+      "position": 18,
+      "goalsScored": 14,
+      "gamesWon": 2,
+      "points": 12
+    },
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 16,
+      "name": "Rayo Vallecano",
+      "gamesDrawn": 3,
+      "position": 6,
+      "goalsScored": 24,
+      "gamesWon": 8,
+      "points": 27
+    }
+  },
+  {
+    "date": "26-09-2021",
+    "awayTeam": {
+      "gamesLost": 7,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Elche",
+      "gamesDrawn": 6,
+      "position": 16,
+      "goalsScored": 15,
+      "gamesWon": 3,
+      "points": 15
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 13,
+      "name": "Real Sociedad",
+      "gamesDrawn": 5,
+      "position": 5,
+      "goalsScored": 19,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "26-09-2021",
+    "awayTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Getafe",
+      "gamesDrawn": 5,
+      "position": 19,
+      "goalsScored": 10,
+      "gamesWon": 2,
+      "points": 11
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 18,
+      "name": "Real Betis",
+      "gamesDrawn": 3,
+      "position": 3,
+      "goalsScored": 26,
+      "gamesWon": 9,
+      "points": 30
+    }
+  },
+  {
+    "date": "25-09-2021",
+    "awayTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 16,
+      "name": "Atletico Madrid",
+      "gamesDrawn": 5,
+      "position": 4,
+      "goalsScored": 27,
+      "gamesWon": 8,
+      "points": 29
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 15,
+      "goalsConceded": 21,
+      "name": "Alaves",
+      "gamesDrawn": 2,
+      "position": 17,
+      "goalsScored": 12,
+      "gamesWon": 4,
+      "points": 14
+    }
+  },
+  {
+    "date": "25-09-2021",
+    "awayTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Valencia",
+      "gamesDrawn": 7,
+      "position": 8,
+      "goalsScored": 24,
+      "gamesWon": 5,
+      "points": 22
+    }
+  },
+  {
+    "date": "25-09-2021",
+    "awayTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Espanyol",
+      "gamesDrawn": 5,
+      "position": 11,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 20
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 11,
+      "name": "Sevilla",
+      "gamesDrawn": 4,
+      "position": 2,
+      "goalsScored": 25,
+      "gamesWon": 9,
+      "points": 31
+    }
+  },
+  {
+    "date": "25-09-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Villarreal",
+      "gamesDrawn": 7,
+      "position": 13,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 16
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 1,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Real Madrid",
+      "gamesDrawn": 3,
+      "position": 1,
+      "goalsScored": 37,
+      "gamesWon": 12,
+      "points": 39
+    }
+  },
+  {
+    "date": "25-09-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Villarreal",
+      "gamesDrawn": 7,
+      "position": 13,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 16
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 1,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Real Madrid",
+      "gamesDrawn": 3,
+      "position": 1,
+      "goalsScored": 37,
+      "gamesWon": 12,
+      "points": 39
+    }
+  },
+  {
+    "date": "25-09-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 18,
+      "name": "Real Betis",
+      "gamesDrawn": 3,
+      "position": 3,
+      "goalsScored": 26,
+      "gamesWon": 9,
+      "points": 30
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 3,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Osasuna",
+      "gamesDrawn": 6,
+      "position": 10,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 21
+    }
+  },
+  {
+    "date": "25-09-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Barcelona",
+      "gamesDrawn": 5,
+      "position": 7,
+      "goalsScored": 23,
+      "gamesWon": 6,
+      "points": 23
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 30,
+      "name": "Cadiz",
+      "gamesDrawn": 6,
+      "position": 18,
+      "goalsScored": 14,
+      "gamesWon": 2,
+      "points": 12
+    }
+  },
+  {
+    "date": "25-09-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Barcelona",
+      "gamesDrawn": 5,
+      "position": 7,
+      "goalsScored": 23,
+      "gamesWon": 6,
+      "points": 23
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 30,
+      "name": "Cadiz",
+      "gamesDrawn": 6,
+      "position": 18,
+      "goalsScored": 14,
+      "gamesWon": 2,
+      "points": 12
+    }
+  },
+  {
+    "date": "25-09-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Valencia",
+      "gamesDrawn": 7,
+      "position": 8,
+      "goalsScored": 24,
+      "gamesWon": 5,
+      "points": 22
+    },
+    "homeTeamScore": 3,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 11,
+      "name": "Sevilla",
+      "gamesDrawn": 4,
+      "position": 2,
+      "goalsScored": 25,
+      "gamesWon": 9,
+      "points": 31
+    }
+  },
+  {
+    "date": "25-09-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 23,
+      "name": "Real Mallorca",
+      "gamesDrawn": 7,
+      "position": 12,
+      "goalsScored": 16,
+      "gamesWon": 4,
+      "points": 19
+    },
+    "homeTeamScore": 6,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 1,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Real Madrid",
+      "gamesDrawn": 3,
+      "position": 1,
+      "goalsScored": 37,
+      "gamesWon": 12,
+      "points": 39
+    }
+  },
+  {
+    "date": "25-09-2021",
+    "awayTeam": {
+      "gamesLost": 7,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Elche",
+      "gamesDrawn": 6,
+      "position": 16,
+      "goalsScored": 15,
+      "gamesWon": 3,
+      "points": 15
+    },
+    "homeTeamScore": 4,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Villarreal",
+      "gamesDrawn": 7,
+      "position": 13,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 16
+    }
+  },
+  {
+    "date": "21-09-2021",
+    "awayTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 16,
+      "name": "Atletico Madrid",
+      "gamesDrawn": 5,
+      "position": 4,
+      "goalsScored": 27,
+      "gamesWon": 8,
+      "points": 29
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Getafe",
+      "gamesDrawn": 5,
+      "position": 19,
+      "goalsScored": 10,
+      "gamesWon": 2,
+      "points": 11
+    }
+  },
+  {
+    "date": "21-09-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 16,
+      "name": "Rayo Vallecano",
+      "gamesDrawn": 3,
+      "position": 6,
+      "goalsScored": 24,
+      "gamesWon": 8,
+      "points": 27
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    }
+  },
+  {
+    "date": "21-09-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 21,
+      "name": "Celta Vigo",
+      "gamesDrawn": 4,
+      "position": 14,
+      "goalsScored": 17,
+      "gamesWon": 4,
+      "points": 16
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 28,
+      "name": "Levante",
+      "gamesDrawn": 8,
+      "position": 20,
+      "goalsScored": 13,
+      "gamesWon": 0,
+      "points": 8
+    }
+  },
+  {
+    "date": "20-09-2021",
+    "awayTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 15,
+      "goalsConceded": 23,
+      "name": "Granada",
+      "gamesDrawn": 6,
+      "position": 15,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 15
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Barcelona",
+      "gamesDrawn": 5,
+      "position": 7,
+      "goalsScored": 23,
+      "gamesWon": 6,
+      "points": 23
+    }
+  },
+  {
+    "date": "19-09-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Villarreal",
+      "gamesDrawn": 7,
+      "position": 13,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 16
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 23,
+      "name": "Real Mallorca",
+      "gamesDrawn": 7,
+      "position": 12,
+      "goalsScored": 16,
+      "gamesWon": 4,
+      "points": 19
+    }
+  },
+  {
+    "date": "19-09-2021",
+    "awayTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 11,
+      "name": "Sevilla",
+      "gamesDrawn": 4,
+      "position": 2,
+      "goalsScored": 25,
+      "gamesWon": 9,
+      "points": 31
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 13,
+      "name": "Real Sociedad",
+      "gamesDrawn": 5,
+      "position": 5,
+      "goalsScored": 19,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "19-09-2021",
+    "awayTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Espanyol",
+      "gamesDrawn": 5,
+      "position": 11,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 20
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 18,
+      "name": "Real Betis",
+      "gamesDrawn": 3,
+      "position": 3,
+      "goalsScored": 26,
+      "gamesWon": 9,
+      "points": 30
+    }
+  },
+  {
+    "date": "19-09-2021",
+    "awayTeam": {
+      "gamesLost": 1,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Real Madrid",
+      "gamesDrawn": 3,
+      "position": 1,
+      "goalsScored": 37,
+      "gamesWon": 12,
+      "points": 39
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Valencia",
+      "gamesDrawn": 7,
+      "position": 8,
+      "goalsScored": 24,
+      "gamesWon": 5,
+      "points": 22
+    }
+  },
+  {
+    "date": "18-09-2021",
+    "awayTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Getafe",
+      "gamesDrawn": 5,
+      "position": 19,
+      "goalsScored": 10,
+      "gamesWon": 2,
+      "points": 11
+    },
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 16,
+      "name": "Rayo Vallecano",
+      "gamesDrawn": 3,
+      "position": 6,
+      "goalsScored": 24,
+      "gamesWon": 8,
+      "points": 27
+    }
+  },
+  {
+    "date": "18-09-2021",
+    "awayTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 16,
+      "name": "Atletico Madrid",
+      "gamesDrawn": 5,
+      "position": 4,
+      "goalsScored": 27,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "18-09-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 28,
+      "name": "Levante",
+      "gamesDrawn": 8,
+      "position": 20,
+      "goalsScored": 13,
+      "gamesWon": 0,
+      "points": 8
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 7,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Elche",
+      "gamesDrawn": 6,
+      "position": 16,
+      "goalsScored": 15,
+      "gamesWon": 3,
+      "points": 15
+    }
+  },
+  {
+    "date": "18-09-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Osasuna",
+      "gamesDrawn": 6,
+      "position": 10,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 21
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 15,
+      "goalsConceded": 21,
+      "name": "Alaves",
+      "gamesDrawn": 2,
+      "position": 17,
+      "goalsScored": 12,
+      "gamesWon": 4,
+      "points": 14
+    }
+  },
+  {
+    "date": "17-09-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 30,
+      "name": "Cadiz",
+      "gamesDrawn": 6,
+      "position": 18,
+      "goalsScored": 14,
+      "gamesWon": 2,
+      "points": 12
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 21,
+      "name": "Celta Vigo",
+      "gamesDrawn": 4,
+      "position": 14,
+      "goalsScored": 17,
+      "gamesWon": 4,
+      "points": 16
+    }
+  },
+  {
+    "date": "13-09-2021",
+    "awayTeam": {
+      "gamesLost": 7,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Elche",
+      "gamesDrawn": 6,
+      "position": 16,
+      "goalsScored": 15,
+      "gamesWon": 3,
+      "points": 15
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Getafe",
+      "gamesDrawn": 5,
+      "position": 19,
+      "goalsScored": 10,
+      "gamesWon": 2,
+      "points": 11
+    }
+  },
+  {
+    "date": "13-09-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 18,
+      "name": "Real Betis",
+      "gamesDrawn": 3,
+      "position": 3,
+      "goalsScored": 26,
+      "gamesWon": 9,
+      "points": 30
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 15,
+      "goalsConceded": 23,
+      "name": "Granada",
+      "gamesDrawn": 6,
+      "position": 15,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 15
+    }
+  },
+  {
+    "date": "12-09-2021",
+    "awayTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 16,
+      "name": "Atletico Madrid",
+      "gamesDrawn": 5,
+      "position": 4,
+      "goalsScored": 27,
+      "gamesWon": 8,
+      "points": 29
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Espanyol",
+      "gamesDrawn": 5,
+      "position": 11,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 20
+    }
+  },
+  {
+    "date": "12-09-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Valencia",
+      "gamesDrawn": 7,
+      "position": 8,
+      "goalsScored": 24,
+      "gamesWon": 5,
+      "points": 22
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 4,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Osasuna",
+      "gamesDrawn": 6,
+      "position": 10,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 21
+    }
+  },
+  {
+    "date": "12-09-2021",
+    "awayTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 13,
+      "name": "Real Sociedad",
+      "gamesDrawn": 5,
+      "position": 5,
+      "goalsScored": 19,
+      "gamesWon": 8,
+      "points": 29
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 30,
+      "name": "Cadiz",
+      "gamesDrawn": 6,
+      "position": 18,
+      "goalsScored": 14,
+      "gamesWon": 2,
+      "points": 12
+    }
+  },
+  {
+    "date": "12-09-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 21,
+      "name": "Celta Vigo",
+      "gamesDrawn": 4,
+      "position": 14,
+      "goalsScored": 17,
+      "gamesWon": 4,
+      "points": 16
+    },
+    "homeTeamScore": 5,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 1,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Real Madrid",
+      "gamesDrawn": 3,
+      "position": 1,
+      "goalsScored": 37,
+      "gamesWon": 12,
+      "points": 39
+    }
+  },
+  {
+    "date": "11-09-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 16,
+      "name": "Rayo Vallecano",
+      "gamesDrawn": 3,
+      "position": 6,
+      "goalsScored": 24,
+      "gamesWon": 8,
+      "points": 27
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 28,
+      "name": "Levante",
+      "gamesDrawn": 8,
+      "position": 20,
+      "goalsScored": 13,
+      "gamesWon": 0,
+      "points": 8
+    }
+  },
+  {
+    "date": "11-09-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 23,
+      "name": "Real Mallorca",
+      "gamesDrawn": 7,
+      "position": 12,
+      "goalsScored": 16,
+      "gamesWon": 4,
+      "points": 19
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    }
+  },
+  {
+    "date": "29-08-2021",
+    "awayTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Getafe",
+      "gamesDrawn": 5,
+      "position": 19,
+      "goalsScored": 10,
+      "gamesWon": 2,
+      "points": 11
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Barcelona",
+      "gamesDrawn": 5,
+      "position": 7,
+      "goalsScored": 23,
+      "gamesWon": 6,
+      "points": 23
+    }
+  },
+  {
+    "date": "29-08-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Osasuna",
+      "gamesDrawn": 6,
+      "position": 10,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 21
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 3,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 30,
+      "name": "Cadiz",
+      "gamesDrawn": 6,
+      "position": 18,
+      "goalsScored": 14,
+      "gamesWon": 2,
+      "points": 12
+    }
+  },
+  {
+    "date": "29-08-2021",
+    "awayTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 15,
+      "goalsConceded": 23,
+      "name": "Granada",
+      "gamesDrawn": 6,
+      "position": 15,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 15
+    },
+    "homeTeamScore": 4,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 16,
+      "name": "Rayo Vallecano",
+      "gamesDrawn": 3,
+      "position": 6,
+      "goalsScored": 24,
+      "gamesWon": 8,
+      "points": 27
+    }
+  },
+  {
+    "date": "29-08-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Villarreal",
+      "gamesDrawn": 7,
+      "position": 13,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 16
+    },
+    "homeTeamScore": 2,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 16,
+      "name": "Atletico Madrid",
+      "gamesDrawn": 5,
+      "position": 4,
+      "goalsScored": 27,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "28-08-2021",
+    "awayTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 21,
+      "name": "Celta Vigo",
+      "gamesDrawn": 4,
+      "position": 14,
+      "goalsScored": 17,
+      "gamesWon": 4,
+      "points": 16
+    }
+  },
+  {
+    "date": "28-08-2021",
+    "awayTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 11,
+      "name": "Sevilla",
+      "gamesDrawn": 4,
+      "position": 2,
+      "goalsScored": 25,
+      "gamesWon": 9,
+      "points": 31
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 7,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Elche",
+      "gamesDrawn": 6,
+      "position": 16,
+      "goalsScored": 15,
+      "gamesWon": 3,
+      "points": 15
+    }
+  },
+  {
+    "date": "28-08-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 28,
+      "name": "Levante",
+      "gamesDrawn": 8,
+      "position": 20,
+      "goalsScored": 13,
+      "gamesWon": 0,
+      "points": 8
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 13,
+      "name": "Real Sociedad",
+      "gamesDrawn": 5,
+      "position": 5,
+      "goalsScored": 19,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "27-08-2021",
+    "awayTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Espanyol",
+      "gamesDrawn": 5,
+      "position": 11,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 20
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 23,
+      "name": "Real Mallorca",
+      "gamesDrawn": 7,
+      "position": 12,
+      "goalsScored": 16,
+      "gamesWon": 4,
+      "points": 19
+    }
+  },
+  {
+    "date": "27-08-2021",
+    "awayTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 15,
+      "goalsConceded": 21,
+      "name": "Alaves",
+      "gamesDrawn": 2,
+      "position": 17,
+      "goalsScored": 12,
+      "gamesWon": 4,
+      "points": 14
+    },
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Valencia",
+      "gamesDrawn": 7,
+      "position": 8,
+      "goalsScored": 24,
+      "gamesWon": 5,
+      "points": 22
+    }
+  },
+  {
+    "date": "27-08-2021",
+    "awayTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 15,
+      "goalsConceded": 21,
+      "name": "Alaves",
+      "gamesDrawn": 2,
+      "position": 17,
+      "goalsScored": 12,
+      "gamesWon": 4,
+      "points": 14
+    },
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Valencia",
+      "gamesDrawn": 7,
+      "position": 8,
+      "goalsScored": 24,
+      "gamesWon": 5,
+      "points": 22
+    }
+  },
+  {
+    "date": "27-08-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 21,
+      "name": "Celta Vigo",
+      "gamesDrawn": 4,
+      "position": 14,
+      "goalsScored": 17,
+      "gamesWon": 4,
+      "points": 16
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Osasuna",
+      "gamesDrawn": 6,
+      "position": 10,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 21
+    }
+  },
+  {
+    "date": "27-08-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 21,
+      "name": "Celta Vigo",
+      "gamesDrawn": 4,
+      "position": 14,
+      "goalsScored": 17,
+      "gamesWon": 4,
+      "points": 16
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Osasuna",
+      "gamesDrawn": 6,
+      "position": 10,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 21
+    }
+  },
+  {
+    "date": "27-08-2021",
+    "awayTeam": {
+      "gamesLost": 7,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Elche",
+      "gamesDrawn": 6,
+      "position": 16,
+      "goalsScored": 15,
+      "gamesWon": 3,
+      "points": 15
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 16,
+      "name": "Atletico Madrid",
+      "gamesDrawn": 5,
+      "position": 4,
+      "goalsScored": 27,
+      "gamesWon": 8,
+      "points": 29
+    }
+  },
+  {
+    "date": "27-08-2021",
+    "awayTeam": {
+      "gamesLost": 1,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Real Madrid",
+      "gamesDrawn": 3,
+      "position": 1,
+      "goalsScored": 37,
+      "gamesWon": 12,
+      "points": 39
+    },
+    "homeTeamScore": 3,
+    "awayTeamScore": 3,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 28,
+      "name": "Levante",
+      "gamesDrawn": 8,
+      "position": 20,
+      "goalsScored": 13,
+      "gamesWon": 0,
+      "points": 8
+    }
+  },
+  {
+    "date": "21-08-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 23,
+      "name": "Real Mallorca",
+      "gamesDrawn": 7,
+      "position": 12,
+      "goalsScored": 16,
+      "gamesWon": 4,
+      "points": 19
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 15,
+      "goalsConceded": 21,
+      "name": "Alaves",
+      "gamesDrawn": 2,
+      "position": 17,
+      "goalsScored": 12,
+      "gamesWon": 4,
+      "points": 14
+    }
+  },
+  {
+    "date": "21-08-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Villarreal",
+      "gamesDrawn": 7,
+      "position": 13,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 16
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Espanyol",
+      "gamesDrawn": 5,
+      "position": 11,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 20
+    }
+  },
+  {
+    "date": "21-08-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Valencia",
+      "gamesDrawn": 7,
+      "position": 8,
+      "goalsScored": 24,
+      "gamesWon": 5,
+      "points": 22
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 15,
+      "goalsConceded": 23,
+      "name": "Granada",
+      "gamesDrawn": 6,
+      "position": 15,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 15
+    }
+  },
+  {
+    "date": "21-08-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Barcelona",
+      "gamesDrawn": 5,
+      "position": 7,
+      "goalsScored": 23,
+      "gamesWon": 6,
+      "points": 23
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    }
+  },
+  {
+    "date": "20-08-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 30,
+      "name": "Cadiz",
+      "gamesDrawn": 6,
+      "position": 18,
+      "goalsScored": 14,
+      "gamesWon": 2,
+      "points": 12
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 18,
+      "name": "Real Betis",
+      "gamesDrawn": 3,
+      "position": 3,
+      "goalsScored": 26,
+      "gamesWon": 9,
+      "points": 30
+    }
+  },
+  {
+    "date": "16-08-2021",
+    "awayTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 15,
+      "goalsConceded": 23,
+      "name": "Granada",
+      "gamesDrawn": 6,
+      "position": 15,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 15
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Villarreal",
+      "gamesDrawn": 7,
+      "position": 13,
+      "goalsScored": 16,
+      "gamesWon": 3,
+      "points": 16
+    }
+  },
+  {
+    "date": "16-08-2021",
+    "awayTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 11,
+      "name": "Athletic Bilbao",
+      "gamesDrawn": 9,
+      "position": 9,
+      "goalsScored": 13,
+      "gamesWon": 4,
+      "points": 21
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 7,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Elche",
+      "gamesDrawn": 6,
+      "position": 16,
+      "goalsScored": 15,
+      "gamesWon": 3,
+      "points": 15
+    }
+  },
+  {
+    "date": "15-08-2021",
+    "awayTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 16,
+      "name": "Atletico Madrid",
+      "gamesDrawn": 5,
+      "position": 4,
+      "goalsScored": 27,
+      "gamesWon": 8,
+      "points": 29
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 21,
+      "name": "Celta Vigo",
+      "gamesDrawn": 4,
+      "position": 14,
+      "goalsScored": 17,
+      "gamesWon": 4,
+      "points": 16
+    }
+  },
+  {
+    "date": "15-08-2021",
+    "awayTeam": {
+      "gamesLost": 3,
+      "gamesPlayed": 16,
+      "goalsConceded": 13,
+      "name": "Real Sociedad",
+      "gamesDrawn": 5,
+      "position": 5,
+      "goalsScored": 19,
+      "gamesWon": 8,
+      "points": 29
+    },
+    "homeTeamScore": 4,
+    "awayTeamScore": 2,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 15,
+      "goalsConceded": 17,
+      "name": "Barcelona",
+      "gamesDrawn": 5,
+      "position": 7,
+      "goalsScored": 23,
+      "gamesWon": 6,
+      "points": 23
+    }
+  },
+  {
+    "date": "15-08-2021",
+    "awayTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 16,
+      "name": "Rayo Vallecano",
+      "gamesDrawn": 3,
+      "position": 6,
+      "goalsScored": 24,
+      "gamesWon": 8,
+      "points": 27
+    },
+    "homeTeamScore": 3,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 2,
+      "gamesPlayed": 15,
+      "goalsConceded": 11,
+      "name": "Sevilla",
+      "gamesDrawn": 4,
+      "position": 2,
+      "goalsScored": 25,
+      "gamesWon": 9,
+      "points": 31
+    }
+  },
+  {
+    "date": "14-08-2021",
+    "awayTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 28,
+      "name": "Levante",
+      "gamesDrawn": 8,
+      "position": 20,
+      "goalsScored": 13,
+      "gamesWon": 0,
+      "points": 8
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 8,
+      "gamesPlayed": 16,
+      "goalsConceded": 30,
+      "name": "Cadiz",
+      "gamesDrawn": 6,
+      "position": 18,
+      "goalsScored": 14,
+      "gamesWon": 2,
+      "points": 12
+    }
+  },
+  {
+    "date": "14-08-2021",
+    "awayTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 18,
+      "name": "Real Betis",
+      "gamesDrawn": 3,
+      "position": 3,
+      "goalsScored": 26,
+      "gamesWon": 9,
+      "points": 30
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 1,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 23,
+      "name": "Real Mallorca",
+      "gamesDrawn": 7,
+      "position": 12,
+      "goalsScored": 16,
+      "gamesWon": 4,
+      "points": 19
+    }
+  },
+  {
+    "date": "14-08-2021",
+    "awayTeam": {
+      "gamesLost": 1,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Real Madrid",
+      "gamesDrawn": 3,
+      "position": 1,
+      "goalsScored": 37,
+      "gamesWon": 12,
+      "points": 39
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 4,
+    "homeTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 15,
+      "goalsConceded": 21,
+      "name": "Alaves",
+      "gamesDrawn": 2,
+      "position": 17,
+      "goalsScored": 12,
+      "gamesWon": 4,
+      "points": 14
+    }
+  },
+  {
+    "date": "14-08-2021",
+    "awayTeam": {
+      "gamesLost": 6,
+      "gamesPlayed": 16,
+      "goalsConceded": 15,
+      "name": "Espanyol",
+      "gamesDrawn": 5,
+      "position": 11,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 20
+    },
+    "homeTeamScore": 0,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 5,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Osasuna",
+      "gamesDrawn": 6,
+      "position": 10,
+      "goalsScored": 15,
+      "gamesWon": 5,
+      "points": 21
+    }
+  },
+  {
+    "date": "13-08-2021",
+    "awayTeam": {
+      "gamesLost": 9,
+      "gamesPlayed": 16,
+      "goalsConceded": 19,
+      "name": "Getafe",
+      "gamesDrawn": 5,
+      "position": 19,
+      "goalsScored": 10,
+      "gamesWon": 2,
+      "points": 11
+    },
+    "homeTeamScore": 1,
+    "awayTeamScore": 0,
+    "homeTeam": {
+      "gamesLost": 4,
+      "gamesPlayed": 16,
+      "goalsConceded": 22,
+      "name": "Valencia",
+      "gamesDrawn": 7,
+      "position": 8,
+      "goalsScored": 24,
+      "gamesWon": 5,
+      "points": 22
+    }
+  }
+]
